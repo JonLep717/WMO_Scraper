@@ -77,14 +77,23 @@ class OSCARSpider(scrapy.Spider):
             #v_name = dat[1]
             v_name = Selector(text=dat[1])
             v_name = v_name.xpath('//a/text()').get()
-            #v_domain = Selector(dat[2])
-            v_measunit = dat[3]
+            v_domain = dat[2]
+            v_measunit = Selector(text=dat[3])
+            v_measunit = v_measunit.xpath('//p/text()').getall()
             v_defin = dat[4]
-            v_uncerunit = dat[5]
+            v_uncerunit = Selector(text=dat[5])
+            v_uncerunit = v_uncerunit.xpath('//p/text()').getall()
             v_reqapp = Selector(text=dat[6])
             v_reqapp = v_reqapp.xpath('//a/text()').getall()
-            v_layers = dat[7]
+            v_layers = Selector(text=dat[7])
+            v_layers = v_layers.xpath('//acronym/text()').getall()
+            reqs["req_id"] = v_id
             reqs["name"] = v_name
+            reqs["domain"] = v_domain
+            reqs["measurement units"] = v_measunit
+            reqs["definition"] = v_defin
+            reqs["uncertainty units"] = v_uncerunit
             reqs["required for application"] = v_reqapp
+            reqs["layers"] = v_layers
             yield reqs
             #yield WmoScraperItem(Id=v_id, VarName=v_name, Domain=v_domain, MeasUnit=v_measunit, Defin = v_defin, UncertUnit = v_uncerunit, ReqApp = v_reqapp, Layers=v_layers)
