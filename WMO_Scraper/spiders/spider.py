@@ -19,6 +19,7 @@ from lxml import etree
 import lxml.etree
 import lxml.html
 
+
 class OSCARSpider(scrapy.Spider):
     name = "wmo_oscar"
     start_urls = ['https://space.oscar.wmo.int/variables']
@@ -64,15 +65,6 @@ class OSCARSpider(scrapy.Spider):
             yield request
         
     def parse_api(self,response):
-        #htmlText = json.loads(response.text)['aaData']
-        #print(htmlText[0][1])
-        #resultPage = etree.HTML(htmlText[0][1])
-        #lxml.etree.strip_elements(resultPage)
-        #print(lxml.html.tostring(resultPage, method="text"))
-        #print(resultPage.xpath('//aaData'))
-        ##rows = table.xpath('//tr')
-        ##row = rows[0].extract()
-        ##print("bruh", row.xpath('td//text()')[0].extract())
         raw_data = response.body    ##Returns string
         data = json.loads(raw_data) ##JSON object
         reqs = {}
@@ -82,11 +74,17 @@ class OSCARSpider(scrapy.Spider):
             #yield reqs
         for dat in data['aaData']:
             v_id = dat[0]
-            v_name = dat[1]
-            v_domain = dat[2]
+            #v_name = dat[1]
+            v_name = Selector(text=dat[1])
+            v_name = v_name.xpath('//a/text()').get()
+            #v_domain = Selector(dat[2])
             v_measunit = dat[3]
             v_defin = dat[4]
             v_uncerunit = dat[5]
-            v_reqapp = dat[6]
+            v_reqapp = Selector(text=dat[6])
+            v_reqapp = v_reqapp.xpath('//a/text()').getall()
             v_layers = dat[7]
-            yield WmoScraperItem(Id=v_id, VarName=v_name, Domain=v_domain, MeasUnit=v_measunit, Defin = v_defin, UncertUnit = v_uncerunit, ReqApp = v_reqapp, Layers=v_layers)
+            reqs["name"] = v_name
+            reqs["required for application"] = v_reqapp
+            yield reqs
+            #yield WmoScraperItem(Id=v_id, VarName=v_name, Domain=v_domain, MeasUnit=v_measunit, Defin = v_defin, UncertUnit = v_uncerunit, ReqApp = v_reqapp, Layers=v_layers)

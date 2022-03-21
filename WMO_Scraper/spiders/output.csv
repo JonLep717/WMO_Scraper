@@ -420,3 +420,1315 @@ stratosphere"">UTLS</acronym><br/>",<p>dimensionless (mol/mol)</p>,,dimensionles
 stratosphere"">UTLS</acronym><br/>",<p>dimensionless (mol/mol)</p>,,dimensionless (mol/mol),"<a href=""/variables/view/c5h12_2_methylbutane"">C5H12 (2-Methylbutane)</a>"
 "3D field of amount of C<sub>5</sub>H<sub>12</sub> (n-Pentane, expressed in moles) divided by the total amount of all constituents in dry air (also expressed in moles).",Atmospheric chemistry,284,"<acronym title=""Free troposphere"">FT</acronym><br/><acronym title=""Mesosphere"">M</acronym><br/><acronym title=""Mid-upper stratosphere"">MUS</acronym><br/><acronym title=""Planetary boundary layer"">PBL</acronym><br/><acronym title=""Total column"">TC</acronym><br/><acronym title=""Upper troposphere / lower
 stratosphere"">UTLS</acronym><br/>",<p>dimensionless (mol/mol)</p>,,dimensionless (mol/mol),"<a href=""/variables/view/c5h12_n_pentane"">C5H12 (n-Pentane)</a>"
+name
+"<a href=""/variables/view/total_lightning_density"">Total lightning density</a>"
+"<a href=""/variables/view/turbulence"">Turbulence</a>"
+"<a href=""/variables/view/upward_long_wave_irradiance_at_earth_surface"">Upward long-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/upward_long_wave_irradiance_at_toa"">Upward long-wave irradiance at TOA</a>"
+"<a href=""/variables/view/upward_short_wave_irradiance_at_toa"">Upward short-wave irradiance at TOA</a>"
+"<a href=""/variables/view/upward_spectral_radiance_at_toa"">Upward spectral radiance at TOA</a>"
+"<a href=""/variables/view/uv_flux"">UV flux</a>"
+"<a href=""/variables/view/uv_flux_spectrum"">UV flux spectrum</a>"
+"<a href=""/variables/view/uv_sky_image"">UV sky image</a>"
+"<a href=""/variables/view/vegetation_type"">Vegetation type</a>"
+"<a href=""/variables/view/vis_flux"">VIS flux</a>"
+"<a href=""/variables/view/vis_flux_spectrum"">VIS flux spectrum</a>"
+"<a href=""/variables/view/vis_sky_image"">VIS sky image</a>"
+"<a href=""/variables/view/water_leaving_spectral_radiance"">Water-leaving spectral radiance</a>"
+"<a href=""/variables/view/wave_1d_energy_frequency_spectrum"">Wave 1D energy frequency spectrum</a>"
+"<a href=""/variables/view/wave_directional_energy_frequency_spectrum"">Wave directional energy frequency spectrum</a>"
+"<a href=""/variables/view/wetland_extent"">Wetland extent</a>"
+"<a href=""/variables/view/wind_horizontal"">Wind (horizontal)</a>"
+"<a href=""/variables/view/wind_vertical"">Wind (vertical)</a>"
+"<a href=""/variables/view/wind_direction_near_surface"">Wind direction (near surface)</a>"
+"<a href=""/variables/view/wind_gust"">Wind gust</a>"
+"<a href=""/variables/view/wind_speed_near_surface"">Wind speed (near surface)</a>"
+"<a href=""/variables/view/wind_stress"">Wind stress</a>"
+"<a href=""/variables/view/wind_vector_near_surface"">Wind vector (near surface)</a>"
+"<a href=""/variables/view/x_ray_flux"">X-ray flux</a>"
+"<a href=""/variables/view/x_ray_flux_spectrum"">X-ray flux spectrum</a>"
+"<a href=""/variables/view/x_ray_sky_image"">X-ray sky image</a>"
+"<a href=""/variables/view/no2_tropospheric_column"">NO2 Tropospheric column</a>"
+"<a href=""/variables/view/no3_mole_fraction"">NO3 Mole Fraction</a>"
+"<a href=""/variables/view/normalised_difference_vegetation_index_ndvi"">Normalised Difference Vegetation Index (NDVI)</a>"
+"<a href=""/variables/view/o3"">O3</a>"
+"<a href=""/variables/view/o3_mole_fraction"">O3 mole fraction</a>"
+"<a href=""/variables/view/o3_stratospheric_column"">O3 Stratospheric Column</a>"
+"<a href=""/variables/view/o3_total_column"">O3 Total Column</a>"
+"<a href=""/variables/view/o3_tropospheric_column"">O3 Tropospheric Column</a>"
+"<a href=""/variables/view/ocean_chlorophyll_concentration"">Ocean chlorophyll concentration </a>"
+"<a href=""/variables/view/ocean_diffuse_attenuation_coefficient_dac"">Ocean Diffuse Attenuation Coefficient (DAC)</a>"
+"<a href=""/variables/view/ocean_dynamic_topography"">Ocean dynamic topography</a>"
+"<a href=""/variables/view/ocean_salinity"">Ocean salinity</a>"
+"<a href=""/variables/view/ocean_subsurface_dissolved_oxygen_concentration"">Ocean subsurface dissolved oxygen concentration</a>"
+"<a href=""/variables/view/ocean_subsurface_tracers"">Ocean subsurface tracers</a>"
+"<a href=""/variables/view/ocean_surface_currents_vector"">Ocean surface currents (vector)</a>"
+"<a href=""/variables/view/ocean_suspended_sediments_concentration"">Ocean suspended sediments concentration</a>"
+"<a href=""/variables/view/ocean_temperature"">Ocean temperature</a>"
+"<a href=""/variables/view/ocean_velocity"">Ocean velocity</a>"
+"<a href=""/variables/view/ocs_mole_fraction"">OCS Mole fraction</a>"
+"<a href=""/variables/view/oh"">OH</a>"
+"<a href=""/variables/view/oil_spill_cover"">Oil spill cover</a>"
+"<a href=""/variables/view/pan"">PAN</a>"
+"<a href=""/variables/view/pco2"">pCO2</a>"
+"<a href=""/variables/view/permafrost"">Permafrost</a>"
+"<a href=""/variables/view/ph"">pH</a>"
+"<a href=""/variables/view/photosynthetically_active_radiation_par"">Photosynthetically Active Radiation (PAR)</a>"
+"<a href=""/variables/view/precipitation_liquid_or_solid"">Precipitation  (liquid or solid)</a>"
+"<a href=""/variables/view/precipitation_intensity_at_surface_liquid_or_solid"">Precipitation intensity at surface (liquid or solid)</a>"
+"<a href=""/variables/view/precipitation_intensity_at_surface_solid"">Precipitation intensity at surface (solid)</a>"
+"<a href=""/variables/view/precipitation_type_at_the_surface"">Precipitation type at the surface</a>"
+"<a href=""/variables/view/proton_differential_directional_flux"">Proton differential directional flux</a>"
+"<a href=""/variables/view/proton_integral_directional_flux"">Proton integral directional flux</a>"
+"<a href=""/variables/view/psc_occurrence"">PSC occurrence</a>"
+"<a href=""/variables/view/radiation_dose_rate"">Radiation Dose Rate</a>"
+"<a href=""/variables/view/radiation_profile"">Radiation profile</a>"
+"<a href=""/variables/view/radio_waves"">Radio-waves</a>"
+"<a href=""/variables/view/relative_humidity"">Relative humidity</a>"
+"<a href=""/variables/view/relative_humidity_near_surface"">Relative Humidity (near surface)</a>"
+"<a href=""/variables/view/river_discharge"">River discharge</a>"
+"<a href=""/variables/view/sea_surface_heat_flux"">Sea surface heat flux</a>"
+"<a href=""/variables/view/sea_surface_height_anomaly"">Sea surface height anomaly</a>"
+"<a href=""/variables/view/sea_surface_mass_flux"">Sea Surface Mass Flux</a>"
+"<a href=""/variables/view/sea_surface_salinity"">Sea surface salinity</a>"
+"<a href=""/variables/view/sea_surface_temperature"">Sea surface temperature</a>"
+"<a href=""/variables/view/sea_ice_cover"">Sea-ice cover</a>"
+"<a href=""/variables/view/sea_ice_elevation"">Sea-ice elevation</a>"
+"<a href=""/variables/view/sea_ice_motion"">Sea-ice motion</a>"
+"<a href=""/variables/view/sea_ice_surface_characteristics"">Sea-ice surface characteristics</a>"
+"<a href=""/variables/view/sea_ice_surface_temperature"">Sea-ice surface temperature</a>"
+"<a href=""/variables/view/sea_ice_thickness"">Sea-ice thickness</a>"
+"<a href=""/variables/view/dms_mole_fraction"">DMS Mole Fraction</a>"
+"<a href=""/variables/view/dominant_wave_direction"">Dominant wave direction</a>"
+"<a href=""/variables/view/dominant_wave_period"">Dominant wave period</a>"
+"<a href=""/variables/view/downward_long_wave_irradiance_at_earth_surface"">Downward long-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/downward_short_wave_irradiance_at_earth_surface"">Downward short-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/downward_short_wave_irradiance_at_toa"">Downward short-wave irradiance at TOA</a>"
+"<a href=""/variables/view/earth_rotation"">Earth Rotation</a>"
+"<a href=""/variables/view/earth_surface_albedo"">Earth surface albedo</a>"
+"<a href=""/variables/view/earth_surface_short_wave_bidirectional_reflectance"">Earth surface short-wave bidirectional reflectance</a>"
+"<a href=""/variables/view/electric_field"">Electric Field</a>"
+"<a href=""/variables/view/electron_density"">Electron Density</a>"
+"<a href=""/variables/view/electron_differential_directional_flux"">Electron differential directional flux</a>"
+"<a href=""/variables/view/electron_flux_density"">Electron flux density</a>"
+"<a href=""/variables/view/electron_flux_energy_spectrum"">Electron flux energy spectrum</a>"
+"<a href=""/variables/view/electron_integral_directional_flux"">Electron integral directional flux</a>"
+"<a href=""/variables/view/electrostatic_charge"">Electrostatic charge</a>"
+"<a href=""/variables/view/energetic_neutral_atom_ena"">Energetic Neutral Atom (ENA)</a>"
+"<a href=""/variables/view/euv_flux"">EUV flux</a>"
+"<a href=""/variables/view/euv_flux_spectrum"">EUV flux spectrum</a>"
+"<a href=""/variables/view/euv_sky_image"">EUV sky image</a>"
+"<a href=""/variables/view/evapotranspiration"">Evapotranspiration</a>"
+"<a href=""/variables/view/fire_fractional_cover"">Fire fractional cover</a>"
+"<a href=""/variables/view/fire_radiative_power"">Fire radiative power</a>"
+"<a href=""/variables/view/fire_temperature"">Fire temperature</a>"
+"<a href=""/variables/view/foes"">foEs</a>"
+"<a href=""/variables/view/fof2"">foF2</a>"
+"<a href=""/variables/view/fraction_of_absorbed_par_fapar"">Fraction of Absorbed PAR (FAPAR)</a>"
+"<a href=""/variables/view/fraction_of_vegetated_land"">Fraction of vegetated land</a>"
+"<a href=""/variables/view/freezing_level_height_in_clouds"">Freezing level height in clouds</a>"
+"<a href=""/variables/view/gamma_ray_flux"">Gamma-ray flux</a>"
+"<a href=""/variables/view/gamma_ray_flux_spectrum"">Gamma-ray flux spectrum</a>"
+"<a href=""/variables/view/geoid"">Geoid</a>"
+"<a href=""/variables/view/geomagnetic_field"">Geomagnetic field</a>"
+"<a href=""/variables/view/glacier_cover"">Glacier cover</a>"
+"<a href=""/variables/view/glacier_motion"">Glacier motion</a>"
+"<a href=""/variables/view/glacier_topography"">Glacier topography</a>"
+"<a href=""/variables/view/glyoxal_mole_fraction"">Glyoxal Mole Fraction</a>"
+"<a href=""/variables/view/glyoxal_tropospheric_column"">Glyoxal Tropospheric column</a>"
+"<a href=""/variables/view/gravity_field"">Gravity field</a>"
+"<a href=""/variables/view/gravity_gradients"">Gravity gradients</a>"
+"<a href=""/variables/view/ground_water"">Ground water</a>"
+"<a href=""/variables/view/h_f"">h&#039;F</a>"
+"<a href=""/variables/view/h2_mole_fraction"">H2 Mole Fraction</a>"
+"<a href=""/variables/view/h2o"">H2O</a>"
+"<a href=""/variables/view/hcfc_22"">HCFC-22</a>"
+"<a href=""/variables/view/hcho_mole_fraction"">HCHO mole fraction </a>"
+"<a href=""/variables/view/hcho_total_column"">HCHO Total Column</a>"
+"<a href=""/variables/view/hcho_tropospheric_column"">HCHO Tropospheric column</a>"
+"<a href=""/variables/view/hcl"">HCl</a>"
+"<a href=""/variables/view/hd_delta"">HD Delta</a>"
+"<a href=""/variables/view/sea_ice_type"">Sea-ice type</a>"
+"<a href=""/variables/view/sf6"">SF6</a>"
+"<a href=""/variables/view/short_wave_cloud_reflectance"">Short-wave cloud reflectance</a>"
+"<a href=""/variables/view/significant_wave_height"">Significant wave height</a>"
+"<a href=""/variables/view/snow_cover"">Snow cover</a>"
+"<a href=""/variables/view/snow_depth"">Snow depth</a>"
+"<a href=""/variables/view/snow_status_wet_dry"">Snow status (wet/dry)</a>"
+"<a href=""/variables/view/snow_water_equivalent"">Snow water equivalent</a>"
+"<a href=""/variables/view/so2_mole_fraction"">SO2 mole fraction</a>"
+"<a href=""/variables/view/so2_mole_fraction_near_surface"">SO2 mole fraction (near surface)</a>"
+"<a href=""/variables/view/so2_total_column"">SO2 Total Column</a>"
+"<a href=""/variables/view/so2_tropospheric_column"">SO2 Tropospheric Column</a>"
+"<a href=""/variables/view/soil_moisture_in_the_roots_region"">Soil moisture  (in the roots region)</a>"
+"<a href=""/variables/view/soil_moisture_at_surface"">Soil moisture at surface</a>"
+"<a href=""/variables/view/soil_temperature"">Soil temperature</a>"
+"<a href=""/variables/view/soil_type"">Soil type</a>"
+"<a href=""/variables/view/solar_ca_ii_k_image"">Solar Ca II-K image</a>"
+"<a href=""/variables/view/solar_coronagraphic_image"">Solar coronagraphic image</a>"
+"<a href=""/variables/view/solar_electric_field"">Solar electric field</a>"
+"<a href=""/variables/view/solar_euv_flux"">Solar EUV flux</a>"
+"<a href=""/variables/view/solar_euv_flux_spectrum"">Solar EUV flux spectrum</a>"
+"<a href=""/variables/view/solar_euv_image"">Solar EUV image</a>"
+"<a href=""/variables/view/solar_gamma_ray_flux"">Solar gamma-ray flux</a>"
+"<a href=""/variables/view/solar_gamma_ray_flux_spectrum"">Solar gamma-ray flux spectrum</a>"
+"<a href=""/variables/view/solar_h_alpha_image"">Solar H-alpha image</a>"
+"<a href=""/variables/view/solar_lyman_alpha_flux"">Solar Lyman-alpha flux</a>"
+"<a href=""/variables/view/solar_lyman_alpha_image"">Solar Lyman-alpha image</a>"
+"<a href=""/variables/view/solar_magnetic_field"">Solar magnetic field</a>"
+"<a href=""/variables/view/solar_radio_flux"">Solar radio flux</a>"
+"<a href=""/variables/view/solar_radio_flux_spectrum"">Solar radio flux spectrum</a>"
+"<a href=""/variables/view/solar_radio_image"">Solar radio image</a>"
+"<a href=""/variables/view/solar_spectral_irradiance"">Solar spectral irradiance</a>"
+"<a href=""/variables/view/solar_uv_flux"">Solar UV flux</a>"
+"<a href=""/variables/view/solar_uv_flux_spectrum"">Solar UV flux spectrum</a>"
+"<a href=""/variables/view/solar_uv_image"">Solar UV image</a>"
+"<a href=""/variables/view/solar_velocity_fields"">Solar velocity fields</a>"
+"<a href=""/variables/view/solar_vis_flux"">Solar VIS flux</a>"
+"<a href=""/variables/view/solar_vis_flux_spectrum"">Solar VIS flux spectrum</a>"
+"<a href=""/variables/view/solar_vis_image"">Solar VIS image</a>"
+"<a href=""/variables/view/solar_white_light_image"">Solar white light image</a>"
+"<a href=""/variables/view/solar_wind_density"">Solar wind density</a>"
+"<a href=""/variables/view/solar_wind_temperature"">Solar wind temperature</a>"
+"<a href=""/variables/view/solar_wind_velocity"">Solar wind velocity</a>"
+"<a href=""/variables/view/solar_x_ray_flux"">Solar X-ray flux</a>"
+"<a href=""/variables/view/solar_x_ray_flux_spectrum"">Solar X-ray flux spectrum</a>"
+"<a href=""/variables/view/solar_x_ray_image"">Solar X-ray image</a>"
+"<a href=""/variables/view/specific_humidity"">Specific humidity</a>"
+"<a href=""/variables/view/spread_f"">Spread F</a>"
+"<a href=""/variables/view/temperature_of_the_tropopause"">Temperature of the tropopause</a>"
+"<a href=""/variables/view/total_alkalinity_at"">Total alkalinity (AT)</a>"
+"<a href=""/variables/view/13_ch4_delta"">(13)CH4 delta</a>"
+"<a href=""/variables/view/13_co_delta"">(13)CO Delta</a>"
+"<a href=""/variables/view/13_co2_delta"">(13)CO2 Delta</a>"
+"<a href=""/variables/view/14_ch4_delta"">(14)CH4 Delta</a>"
+"<a href=""/variables/view/14_co_number_concentration"">(14)CO Number Concentration</a>"
+"<a href=""/variables/view/14_co2_delta"">(14)CO2 Delta</a>"
+"<a href=""/variables/view/accumulated_precipitation_over_24_h"">Accumulated precipitation (over 24 h)</a>"
+"<a href=""/variables/view/aerosol_absorption_optical_depth"">Aerosol Absorption Optical Depth</a>"
+"<a href=""/variables/view/aerosol_column_burden"">Aerosol column burden</a>"
+"<a href=""/variables/view/aerosol_dust_concentration"">Aerosol dust concentration</a>"
+"<a href=""/variables/view/aerosol_effective_radius"">Aerosol effective radius</a>"
+"<a href=""/variables/view/aerosol_extinction_coefficient"">Aerosol Extinction Coefficient</a>"
+"<a href=""/variables/view/aerosol_layer_height"">Aerosol Layer Height</a>"
+"<a href=""/variables/view/aerosol_mass_mixing_ratio"">Aerosol mass mixing ratio</a>"
+"<a href=""/variables/view/aerosol_optical_depth"">Aerosol Optical Depth</a>"
+"<a href=""/variables/view/aerosol_single_scattering_albedo"">Aerosol single-scattering albedo</a>"
+"<a href=""/variables/view/aerosol_species_mole_fraction"">Aerosol species mole fraction</a>"
+"<a href=""/variables/view/aerosol_species_total_column_burden"">Aerosol species total column burden</a>"
+"<a href=""/variables/view/aerosol_type"">Aerosol type</a>"
+"<a href=""/variables/view/aerosol_volcanic_ash"">Aerosol volcanic ash</a>"
+"<a href=""/variables/view/aerosol_volcanic_ash_total_column"">Aerosol volcanic ash  Total Column</a>"
+"<a href=""/variables/view/air_pressure_near_surface"">Air pressure (near surface)</a>"
+"<a href=""/variables/view/air_specific_humidity_near_surface"">Air specific humidity (near surface)</a>"
+"<a href=""/variables/view/air_temperature_near_surface"">Air temperature (near surface)</a>"
+"<a href=""/variables/view/alpha_particles_differential_directional_flux"">Alpha particles differential directional flux</a>"
+"<a href=""/variables/view/alpha_particles_integral_directional_flux"">Alpha particles integral directional flux</a>"
+"<a href=""/variables/view/atmospheric_density"">Atmospheric density</a>"
+"<a href=""/variables/view/atmospheric_temperature"">Atmospheric temperature</a>"
+"<a href=""/variables/view/aurora"">Aurora</a>"
+"<a href=""/variables/view/background_luminance_surface"">Background Luminance (surface)</a>"
+"<a href=""/variables/view/bathymetry"">Bathymetry</a>"
+"<a href=""/variables/view/biomass"">Biomass</a>"
+"<a href=""/variables/view/bro"">BrO</a>"
+"<a href=""/variables/view/c_17_oo_delta"">C(17)OO Delta</a>"
+"<a href=""/variables/view/c_18_o_delta"">C(18)O Delta</a>"
+"<a href=""/variables/view/c_18_oo_delta"">C(18)OO Delta</a>"
+"<a href=""/variables/view/c10h16_3_carene_mole_fraction"">C10H16 (3-Carene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_alfapinene_mole_fraction"">C10H16 (alfapinene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_betapinene_mole_fraction"">C10H16 (betapinene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_limonene_mole_fraction"">C10H16 (Limonene) Mole Fraction</a>"
+"<a href=""/variables/view/c2h2"">C2H2</a>"
+"<a href=""/variables/view/c2h5oh_mole_fraction"">C2H5OH Mole Fraction</a>"
+"<a href=""/variables/view/c2h6"">C2H6</a>"
+"<a href=""/variables/view/c2h6s_mole_fraction"">C2H6S Mole Fraction</a>"
+"<a href=""/variables/view/c3h6o_mole_fraction"">C3H6O Mole Fraction</a>"
+"<a href=""/variables/view/c3h8"">C3H8</a>"
+"<a href=""/variables/view/c4h10"">C4H10</a>"
+"<a href=""/variables/view/c4h10_n_butane"">C4H10 (n-butane)</a>"
+"<a href=""/variables/view/c5h12_2_methylbutane"">C5H12 (2-Methylbutane)</a>"
+"<a href=""/variables/view/c5h12_n_pentane"">C5H12 (n-Pentane)</a>"
+"<a href=""/variables/view/c5h8"">C5H8</a>"
+"<a href=""/variables/view/c6h6"">C6H6</a>"
+"<a href=""/variables/view/c7h8_mole_fraction"">C7H8 Mole Fraction</a>"
+"<a href=""/variables/view/cfc_11"">CFC-11</a>"
+"<a href=""/variables/view/cfc_12"">CFC-12</a>"
+"<a href=""/variables/view/ch3br"">CH3Br</a>"
+"<a href=""/variables/view/ch3cn_mole_fraction"">CH3CN Mole Fraction</a>"
+"<a href=""/variables/view/ch3d_delta"">CH3D Delta</a>"
+"<a href=""/variables/view/ch3oh_mole_fraction"">CH3OH Mole Fraction</a>"
+"<a href=""/variables/view/ch4_column_average_dry_air_mixing_ratio"">CH4 column average dry air mixing ratio </a>"
+"<a href=""/variables/view/ch4_mole_fraction"">CH4 mole fraction</a>"
+"<a href=""/variables/view/ch4_mole_fraction_bg"">CH4 Mole fraction (BG)</a>"
+"<a href=""/variables/view/ch4_mole_fraction_sr"">CH4 Mole fraction (SR)</a>"
+"<a href=""/variables/view/ch4_tropospheric_column"">CH4 Tropospheric column</a>"
+"<a href=""/variables/view/clo"">ClO</a>"
+"<a href=""/variables/view/clono2"">ClONO2</a>"
+"<a href=""/variables/view/cloud_base_height"">Cloud base height</a>"
+"<a href=""/variables/view/cloud_cover"">Cloud cover</a>"
+"<a href=""/variables/view/cloud_drop_effective_radius"">Cloud drop effective radius</a>"
+"<a href=""/variables/view/cloud_ice"">Cloud ice</a>"
+"<a href=""/variables/view/cloud_ice_effective_radius"">Cloud ice effective radius</a>"
+"<a href=""/variables/view/cloud_ice_total_column"">Cloud ice Total Column</a>"
+"<a href=""/variables/view/cloud_liquid_water_clw"">Cloud liquid water (CLW)</a>"
+"<a href=""/variables/view/cloud_liquid_water_clw_total_column"">Cloud liquid water (CLW) total column</a>"
+"<a href=""/variables/view/cloud_optical_depth"">Cloud optical depth</a>"
+"<a href=""/variables/view/cloud_to_ground_lightning_density"">Cloud to Ground lightning density</a>"
+"<a href=""/variables/view/cloud_top_height"">Cloud top height</a>"
+"<a href=""/variables/view/cloud_top_pressure"">Cloud top pressure</a>"
+"<a href=""/variables/view/cloud_top_temperature"">Cloud top temperature</a>"
+"<a href=""/variables/view/cloud_type"">Cloud type</a>"
+"<a href=""/variables/view/co_mole_fraction"">CO mole fraction</a>"
+"<a href=""/variables/view/co_mole_fraction_near_surface"">CO mole fraction (near surface)</a>"
+"<a href=""/variables/view/co_total_column"">CO Total Column</a>"
+"<a href=""/variables/view/co_tropospheric_column"">CO Tropospheric column</a>"
+"<a href=""/variables/view/co2_column_average_dry_air_mixing_ratio"">CO2 column average dry air mixing ratio</a>"
+"<a href=""/variables/view/co2_flux"">CO2 flux</a>"
+"<a href=""/variables/view/co2_mole_fraction"">CO2 mole fraction</a>"
+"<a href=""/variables/view/co2_mole_fraction_bg"">CO2 Mole fraction (BG)</a>"
+"<a href=""/variables/view/co2_mole_fraction_sr"">CO2 Mole fraction (SR)</a>"
+"<a href=""/variables/view/co2_tropospheric_column"">CO2 Tropospheric Column</a>"
+"<a href=""/variables/view/coastal_sea_level_tide"">Coastal sea level (tide)</a>"
+"<a href=""/variables/view/coastlines"">Coastlines</a>"
+"<a href=""/variables/view/colour_dissolved_organic_matter_cdom"">Colour Dissolved Organic Matter (CDOM)</a>"
+"<a href=""/variables/view/cos"">COS</a>"
+"<a href=""/variables/view/cosmic_ray_neutron_flux"">Cosmic ray neutron flux</a>"
+"<a href=""/variables/view/cosmic_ray_neutron_flux_spectrum"">Cosmic ray neutron flux spectrum</a>"
+"<a href=""/variables/view/crustal_motion_horizontal_and_vertical"">Crustal motion (horizontal and vertical)</a>"
+"<a href=""/variables/view/crustal_plates_positioning"">Crustal plates positioning</a>"
+"<a href=""/variables/view/dew_point_temperature"">Dew Point Temperature</a>"
+"<a href=""/variables/view/dissolved_inorganic_carbon_dic"">Dissolved inorganic carbon  (DIC)</a>"
+"<a href=""/variables/view/hdo"">HDO</a>"
+"<a href=""/variables/view/heavy_ion_angular_flux_energy_and_mass_spectrum"">Heavy ion angular flux energy and mass spectrum</a>"
+"<a href=""/variables/view/heavy_ion_differential_directional_flux"">Heavy ion differential directional flux</a>"
+"<a href=""/variables/view/heavy_ion_flux_energy_and_mass_spectrum"">Heavy ion flux energy and mass spectrum</a>"
+"<a href=""/variables/view/heavy_ion_integral_directional_flux"">Heavy ion integral directional flux</a>"
+"<a href=""/variables/view/height_of_the_top_of_pbl"">Height of the top of PBL</a>"
+"<a href=""/variables/view/height_of_the_tropopause"">Height of the tropopause</a>"
+"<a href=""/variables/view/heliospheric_image"">Heliospheric image</a>"
+"<a href=""/variables/view/hmf2"">hmF2</a>"
+"<a href=""/variables/view/hno3"">HNO3</a>"
+"<a href=""/variables/view/hydrometeor_type"">Hydrometeor type</a>"
+"<a href=""/variables/view/ice_sheet_topography"">Ice sheet topography</a>"
+"<a href=""/variables/view/icing_potential"">Icing potential</a>"
+"<a href=""/variables/view/integrated_water_vapour_iwv"">Integrated Water Vapour (IWV)</a>"
+"<a href=""/variables/view/interplanetary_magnetic_field"">Interplanetary magnetic field</a>"
+"<a href=""/variables/view/ionospheric_plasma_density"">Ionospheric plasma density</a>"
+"<a href=""/variables/view/ionospheric_plasma_velocity"">Ionospheric plasma velocity</a>"
+"<a href=""/variables/view/ionospheric_radio_absorption"">Ionospheric Radio Absorption</a>"
+"<a href=""/variables/view/ionospheric_scintillation"">Ionospheric Scintillation</a>"
+"<a href=""/variables/view/ionospheric_vertical_total_electron_content_vtec"">Ionospheric Vertical Total Electron Content (VTEC)</a>"
+"<a href=""/variables/view/lake_area"">Lake area</a>"
+"<a href=""/variables/view/lake_level"">Lake level</a>"
+"<a href=""/variables/view/lake_surface_temperature"">Lake Surface Temperature</a>"
+"<a href=""/variables/view/land_cover"">Land cover</a>"
+"<a href=""/variables/view/land_surface_temperature"">Land surface temperature</a>"
+"<a href=""/variables/view/land_surface_topography"">Land surface topography</a>"
+"<a href=""/variables/view/leaf_area_index_lai"">Leaf Area Index (LAI)</a>"
+"<a href=""/variables/view/long_wave_earth_surface_emissivity"">Long-wave Earth surface emissivity</a>"
+"<a href=""/variables/view/melting_layer_depth_in_clouds"">Melting layer depth in clouds</a>"
+"<a href=""/variables/view/meteorological_optical_range_mor_surface"">Meteorological Optical Range (MOR) (surface)</a>"
+"<a href=""/variables/view/n_15_no_delta"">N(15)NO Delta</a>"
+"<a href=""/variables/view/n_15_no_alpha_delta"">N(15)NO-Alpha Delta</a>"
+"<a href=""/variables/view/n_15_no_beta_delta"">N(15)NO-Beta Delta</a>"
+"<a href=""/variables/view/n2_18_o_delta"">N2(18)O Delta</a>"
+"<a href=""/variables/view/n2o_mole_fraction"">N2O mole fraction</a>"
+"<a href=""/variables/view/n2o_mole_fraction_bg"">N2O mole fraction (BG)</a>"
+"<a href=""/variables/view/n2o_mole_fraction_sr"">N2O mole fraction (SR)</a>"
+"<a href=""/variables/view/n2o5"">N2O5</a>"
+"<a href=""/variables/view/nh3_mole_fraction"">NH3 Mole Fraction</a>"
+"<a href=""/variables/view/nh3_total_column"">NH3 Total Column</a>"
+"<a href=""/variables/view/nir_swir_flux"">NIR/SWIR flux</a>"
+"<a href=""/variables/view/nir_swir_flux_spectrum"">NIR/SWIR flux spectrum</a>"
+"<a href=""/variables/view/nir_swir_sky_image"">NIR/SWIR sky image</a>"
+"<a href=""/variables/view/no"">NO</a>"
+"<a href=""/variables/view/no2_total_column"">NO2  Total Column</a>"
+"<a href=""/variables/view/no2_mole_fraction_sr"">NO2 Mole  fraction (SR)</a>"
+"<a href=""/variables/view/no2_mole_fraction"">NO2 mole fraction</a>"
+"<a href=""/variables/view/no2_mole_fraction_bg"">NO2 Mole fraction (BG)</a>"
+"<a href=""/variables/view/no2_mole_fraction_near_surface"">NO2 mole fraction (near surface)</a>"
+"<a href=""/variables/view/no2_stratospheric_column"">NO2 Stratospheric Column</a>"
+name
+"<a href=""/variables/view/total_lightning_density"">Total lightning density</a>"
+"<a href=""/variables/view/turbulence"">Turbulence</a>"
+"<a href=""/variables/view/upward_long_wave_irradiance_at_earth_surface"">Upward long-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/upward_long_wave_irradiance_at_toa"">Upward long-wave irradiance at TOA</a>"
+"<a href=""/variables/view/upward_short_wave_irradiance_at_toa"">Upward short-wave irradiance at TOA</a>"
+"<a href=""/variables/view/upward_spectral_radiance_at_toa"">Upward spectral radiance at TOA</a>"
+"<a href=""/variables/view/uv_flux"">UV flux</a>"
+"<a href=""/variables/view/uv_flux_spectrum"">UV flux spectrum</a>"
+"<a href=""/variables/view/uv_sky_image"">UV sky image</a>"
+"<a href=""/variables/view/vegetation_type"">Vegetation type</a>"
+"<a href=""/variables/view/vis_flux"">VIS flux</a>"
+"<a href=""/variables/view/vis_flux_spectrum"">VIS flux spectrum</a>"
+"<a href=""/variables/view/vis_sky_image"">VIS sky image</a>"
+"<a href=""/variables/view/water_leaving_spectral_radiance"">Water-leaving spectral radiance</a>"
+"<a href=""/variables/view/wave_1d_energy_frequency_spectrum"">Wave 1D energy frequency spectrum</a>"
+"<a href=""/variables/view/wave_directional_energy_frequency_spectrum"">Wave directional energy frequency spectrum</a>"
+"<a href=""/variables/view/wetland_extent"">Wetland extent</a>"
+"<a href=""/variables/view/wind_horizontal"">Wind (horizontal)</a>"
+"<a href=""/variables/view/wind_vertical"">Wind (vertical)</a>"
+"<a href=""/variables/view/wind_direction_near_surface"">Wind direction (near surface)</a>"
+"<a href=""/variables/view/wind_gust"">Wind gust</a>"
+"<a href=""/variables/view/wind_speed_near_surface"">Wind speed (near surface)</a>"
+"<a href=""/variables/view/wind_stress"">Wind stress</a>"
+"<a href=""/variables/view/wind_vector_near_surface"">Wind vector (near surface)</a>"
+"<a href=""/variables/view/x_ray_flux"">X-ray flux</a>"
+"<a href=""/variables/view/x_ray_flux_spectrum"">X-ray flux spectrum</a>"
+"<a href=""/variables/view/x_ray_sky_image"">X-ray sky image</a>"
+"<a href=""/variables/view/hdo"">HDO</a>"
+"<a href=""/variables/view/heavy_ion_angular_flux_energy_and_mass_spectrum"">Heavy ion angular flux energy and mass spectrum</a>"
+"<a href=""/variables/view/heavy_ion_differential_directional_flux"">Heavy ion differential directional flux</a>"
+"<a href=""/variables/view/heavy_ion_flux_energy_and_mass_spectrum"">Heavy ion flux energy and mass spectrum</a>"
+"<a href=""/variables/view/heavy_ion_integral_directional_flux"">Heavy ion integral directional flux</a>"
+"<a href=""/variables/view/height_of_the_top_of_pbl"">Height of the top of PBL</a>"
+"<a href=""/variables/view/height_of_the_tropopause"">Height of the tropopause</a>"
+"<a href=""/variables/view/heliospheric_image"">Heliospheric image</a>"
+"<a href=""/variables/view/hmf2"">hmF2</a>"
+"<a href=""/variables/view/hno3"">HNO3</a>"
+"<a href=""/variables/view/hydrometeor_type"">Hydrometeor type</a>"
+"<a href=""/variables/view/ice_sheet_topography"">Ice sheet topography</a>"
+"<a href=""/variables/view/icing_potential"">Icing potential</a>"
+"<a href=""/variables/view/integrated_water_vapour_iwv"">Integrated Water Vapour (IWV)</a>"
+"<a href=""/variables/view/interplanetary_magnetic_field"">Interplanetary magnetic field</a>"
+"<a href=""/variables/view/ionospheric_plasma_density"">Ionospheric plasma density</a>"
+"<a href=""/variables/view/ionospheric_plasma_velocity"">Ionospheric plasma velocity</a>"
+"<a href=""/variables/view/ionospheric_radio_absorption"">Ionospheric Radio Absorption</a>"
+"<a href=""/variables/view/ionospheric_scintillation"">Ionospheric Scintillation</a>"
+"<a href=""/variables/view/ionospheric_vertical_total_electron_content_vtec"">Ionospheric Vertical Total Electron Content (VTEC)</a>"
+"<a href=""/variables/view/lake_area"">Lake area</a>"
+"<a href=""/variables/view/lake_level"">Lake level</a>"
+"<a href=""/variables/view/lake_surface_temperature"">Lake Surface Temperature</a>"
+"<a href=""/variables/view/land_cover"">Land cover</a>"
+"<a href=""/variables/view/land_surface_temperature"">Land surface temperature</a>"
+"<a href=""/variables/view/land_surface_topography"">Land surface topography</a>"
+"<a href=""/variables/view/leaf_area_index_lai"">Leaf Area Index (LAI)</a>"
+"<a href=""/variables/view/long_wave_earth_surface_emissivity"">Long-wave Earth surface emissivity</a>"
+"<a href=""/variables/view/melting_layer_depth_in_clouds"">Melting layer depth in clouds</a>"
+"<a href=""/variables/view/meteorological_optical_range_mor_surface"">Meteorological Optical Range (MOR) (surface)</a>"
+"<a href=""/variables/view/n_15_no_delta"">N(15)NO Delta</a>"
+"<a href=""/variables/view/n_15_no_alpha_delta"">N(15)NO-Alpha Delta</a>"
+"<a href=""/variables/view/n_15_no_beta_delta"">N(15)NO-Beta Delta</a>"
+"<a href=""/variables/view/n2_18_o_delta"">N2(18)O Delta</a>"
+"<a href=""/variables/view/n2o_mole_fraction"">N2O mole fraction</a>"
+"<a href=""/variables/view/n2o_mole_fraction_bg"">N2O mole fraction (BG)</a>"
+"<a href=""/variables/view/n2o_mole_fraction_sr"">N2O mole fraction (SR)</a>"
+"<a href=""/variables/view/n2o5"">N2O5</a>"
+"<a href=""/variables/view/nh3_mole_fraction"">NH3 Mole Fraction</a>"
+"<a href=""/variables/view/nh3_total_column"">NH3 Total Column</a>"
+"<a href=""/variables/view/nir_swir_flux"">NIR/SWIR flux</a>"
+"<a href=""/variables/view/nir_swir_flux_spectrum"">NIR/SWIR flux spectrum</a>"
+"<a href=""/variables/view/nir_swir_sky_image"">NIR/SWIR sky image</a>"
+"<a href=""/variables/view/no"">NO</a>"
+"<a href=""/variables/view/no2_total_column"">NO2  Total Column</a>"
+"<a href=""/variables/view/no2_mole_fraction_sr"">NO2 Mole  fraction (SR)</a>"
+"<a href=""/variables/view/no2_mole_fraction"">NO2 mole fraction</a>"
+"<a href=""/variables/view/no2_mole_fraction_bg"">NO2 Mole fraction (BG)</a>"
+"<a href=""/variables/view/no2_mole_fraction_near_surface"">NO2 mole fraction (near surface)</a>"
+"<a href=""/variables/view/no2_stratospheric_column"">NO2 Stratospheric Column</a>"
+"<a href=""/variables/view/13_ch4_delta"">(13)CH4 delta</a>"
+"<a href=""/variables/view/13_co_delta"">(13)CO Delta</a>"
+"<a href=""/variables/view/13_co2_delta"">(13)CO2 Delta</a>"
+"<a href=""/variables/view/14_ch4_delta"">(14)CH4 Delta</a>"
+"<a href=""/variables/view/14_co_number_concentration"">(14)CO Number Concentration</a>"
+"<a href=""/variables/view/14_co2_delta"">(14)CO2 Delta</a>"
+"<a href=""/variables/view/accumulated_precipitation_over_24_h"">Accumulated precipitation (over 24 h)</a>"
+"<a href=""/variables/view/aerosol_absorption_optical_depth"">Aerosol Absorption Optical Depth</a>"
+"<a href=""/variables/view/aerosol_column_burden"">Aerosol column burden</a>"
+"<a href=""/variables/view/aerosol_dust_concentration"">Aerosol dust concentration</a>"
+"<a href=""/variables/view/aerosol_effective_radius"">Aerosol effective radius</a>"
+"<a href=""/variables/view/aerosol_extinction_coefficient"">Aerosol Extinction Coefficient</a>"
+"<a href=""/variables/view/aerosol_layer_height"">Aerosol Layer Height</a>"
+"<a href=""/variables/view/aerosol_mass_mixing_ratio"">Aerosol mass mixing ratio</a>"
+"<a href=""/variables/view/aerosol_optical_depth"">Aerosol Optical Depth</a>"
+"<a href=""/variables/view/aerosol_single_scattering_albedo"">Aerosol single-scattering albedo</a>"
+"<a href=""/variables/view/aerosol_species_mole_fraction"">Aerosol species mole fraction</a>"
+"<a href=""/variables/view/aerosol_species_total_column_burden"">Aerosol species total column burden</a>"
+"<a href=""/variables/view/aerosol_type"">Aerosol type</a>"
+"<a href=""/variables/view/aerosol_volcanic_ash"">Aerosol volcanic ash</a>"
+"<a href=""/variables/view/aerosol_volcanic_ash_total_column"">Aerosol volcanic ash  Total Column</a>"
+"<a href=""/variables/view/air_pressure_near_surface"">Air pressure (near surface)</a>"
+"<a href=""/variables/view/air_specific_humidity_near_surface"">Air specific humidity (near surface)</a>"
+"<a href=""/variables/view/air_temperature_near_surface"">Air temperature (near surface)</a>"
+"<a href=""/variables/view/alpha_particles_differential_directional_flux"">Alpha particles differential directional flux</a>"
+"<a href=""/variables/view/alpha_particles_integral_directional_flux"">Alpha particles integral directional flux</a>"
+"<a href=""/variables/view/atmospheric_density"">Atmospheric density</a>"
+"<a href=""/variables/view/atmospheric_temperature"">Atmospheric temperature</a>"
+"<a href=""/variables/view/aurora"">Aurora</a>"
+"<a href=""/variables/view/background_luminance_surface"">Background Luminance (surface)</a>"
+"<a href=""/variables/view/bathymetry"">Bathymetry</a>"
+"<a href=""/variables/view/biomass"">Biomass</a>"
+"<a href=""/variables/view/bro"">BrO</a>"
+"<a href=""/variables/view/c_17_oo_delta"">C(17)OO Delta</a>"
+"<a href=""/variables/view/c_18_o_delta"">C(18)O Delta</a>"
+"<a href=""/variables/view/c_18_oo_delta"">C(18)OO Delta</a>"
+"<a href=""/variables/view/c10h16_3_carene_mole_fraction"">C10H16 (3-Carene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_alfapinene_mole_fraction"">C10H16 (alfapinene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_betapinene_mole_fraction"">C10H16 (betapinene) Mole Fraction</a>"
+"<a href=""/variables/view/c10h16_limonene_mole_fraction"">C10H16 (Limonene) Mole Fraction</a>"
+"<a href=""/variables/view/c2h2"">C2H2</a>"
+"<a href=""/variables/view/c2h5oh_mole_fraction"">C2H5OH Mole Fraction</a>"
+"<a href=""/variables/view/c2h6"">C2H6</a>"
+"<a href=""/variables/view/c2h6s_mole_fraction"">C2H6S Mole Fraction</a>"
+"<a href=""/variables/view/c3h6o_mole_fraction"">C3H6O Mole Fraction</a>"
+"<a href=""/variables/view/c3h8"">C3H8</a>"
+"<a href=""/variables/view/c4h10"">C4H10</a>"
+"<a href=""/variables/view/c4h10_n_butane"">C4H10 (n-butane)</a>"
+"<a href=""/variables/view/c5h12_2_methylbutane"">C5H12 (2-Methylbutane)</a>"
+"<a href=""/variables/view/c5h12_n_pentane"">C5H12 (n-Pentane)</a>"
+"<a href=""/variables/view/no2_tropospheric_column"">NO2 Tropospheric column</a>"
+"<a href=""/variables/view/no3_mole_fraction"">NO3 Mole Fraction</a>"
+"<a href=""/variables/view/normalised_difference_vegetation_index_ndvi"">Normalised Difference Vegetation Index (NDVI)</a>"
+"<a href=""/variables/view/o3"">O3</a>"
+"<a href=""/variables/view/o3_mole_fraction"">O3 mole fraction</a>"
+"<a href=""/variables/view/o3_stratospheric_column"">O3 Stratospheric Column</a>"
+"<a href=""/variables/view/o3_total_column"">O3 Total Column</a>"
+"<a href=""/variables/view/o3_tropospheric_column"">O3 Tropospheric Column</a>"
+"<a href=""/variables/view/ocean_chlorophyll_concentration"">Ocean chlorophyll concentration </a>"
+"<a href=""/variables/view/ocean_diffuse_attenuation_coefficient_dac"">Ocean Diffuse Attenuation Coefficient (DAC)</a>"
+"<a href=""/variables/view/ocean_dynamic_topography"">Ocean dynamic topography</a>"
+"<a href=""/variables/view/ocean_salinity"">Ocean salinity</a>"
+"<a href=""/variables/view/ocean_subsurface_dissolved_oxygen_concentration"">Ocean subsurface dissolved oxygen concentration</a>"
+"<a href=""/variables/view/ocean_subsurface_tracers"">Ocean subsurface tracers</a>"
+"<a href=""/variables/view/ocean_surface_currents_vector"">Ocean surface currents (vector)</a>"
+"<a href=""/variables/view/ocean_suspended_sediments_concentration"">Ocean suspended sediments concentration</a>"
+"<a href=""/variables/view/ocean_temperature"">Ocean temperature</a>"
+"<a href=""/variables/view/ocean_velocity"">Ocean velocity</a>"
+"<a href=""/variables/view/ocs_mole_fraction"">OCS Mole fraction</a>"
+"<a href=""/variables/view/oh"">OH</a>"
+"<a href=""/variables/view/oil_spill_cover"">Oil spill cover</a>"
+"<a href=""/variables/view/pan"">PAN</a>"
+"<a href=""/variables/view/pco2"">pCO2</a>"
+"<a href=""/variables/view/permafrost"">Permafrost</a>"
+"<a href=""/variables/view/ph"">pH</a>"
+"<a href=""/variables/view/photosynthetically_active_radiation_par"">Photosynthetically Active Radiation (PAR)</a>"
+"<a href=""/variables/view/precipitation_liquid_or_solid"">Precipitation  (liquid or solid)</a>"
+"<a href=""/variables/view/precipitation_intensity_at_surface_liquid_or_solid"">Precipitation intensity at surface (liquid or solid)</a>"
+"<a href=""/variables/view/precipitation_intensity_at_surface_solid"">Precipitation intensity at surface (solid)</a>"
+"<a href=""/variables/view/precipitation_type_at_the_surface"">Precipitation type at the surface</a>"
+"<a href=""/variables/view/proton_differential_directional_flux"">Proton differential directional flux</a>"
+"<a href=""/variables/view/proton_integral_directional_flux"">Proton integral directional flux</a>"
+"<a href=""/variables/view/psc_occurrence"">PSC occurrence</a>"
+"<a href=""/variables/view/radiation_dose_rate"">Radiation Dose Rate</a>"
+"<a href=""/variables/view/radiation_profile"">Radiation profile</a>"
+"<a href=""/variables/view/radio_waves"">Radio-waves</a>"
+"<a href=""/variables/view/relative_humidity"">Relative humidity</a>"
+"<a href=""/variables/view/relative_humidity_near_surface"">Relative Humidity (near surface)</a>"
+"<a href=""/variables/view/river_discharge"">River discharge</a>"
+"<a href=""/variables/view/sea_surface_heat_flux"">Sea surface heat flux</a>"
+"<a href=""/variables/view/sea_surface_height_anomaly"">Sea surface height anomaly</a>"
+"<a href=""/variables/view/sea_surface_mass_flux"">Sea Surface Mass Flux</a>"
+"<a href=""/variables/view/sea_surface_salinity"">Sea surface salinity</a>"
+"<a href=""/variables/view/sea_surface_temperature"">Sea surface temperature</a>"
+"<a href=""/variables/view/sea_ice_cover"">Sea-ice cover</a>"
+"<a href=""/variables/view/sea_ice_elevation"">Sea-ice elevation</a>"
+"<a href=""/variables/view/sea_ice_motion"">Sea-ice motion</a>"
+"<a href=""/variables/view/sea_ice_surface_characteristics"">Sea-ice surface characteristics</a>"
+"<a href=""/variables/view/sea_ice_surface_temperature"">Sea-ice surface temperature</a>"
+"<a href=""/variables/view/sea_ice_thickness"">Sea-ice thickness</a>"
+"<a href=""/variables/view/c5h8"">C5H8</a>"
+"<a href=""/variables/view/c6h6"">C6H6</a>"
+"<a href=""/variables/view/c7h8_mole_fraction"">C7H8 Mole Fraction</a>"
+"<a href=""/variables/view/cfc_11"">CFC-11</a>"
+"<a href=""/variables/view/cfc_12"">CFC-12</a>"
+"<a href=""/variables/view/ch3br"">CH3Br</a>"
+"<a href=""/variables/view/ch3cn_mole_fraction"">CH3CN Mole Fraction</a>"
+"<a href=""/variables/view/ch3d_delta"">CH3D Delta</a>"
+"<a href=""/variables/view/ch3oh_mole_fraction"">CH3OH Mole Fraction</a>"
+"<a href=""/variables/view/ch4_column_average_dry_air_mixing_ratio"">CH4 column average dry air mixing ratio </a>"
+"<a href=""/variables/view/ch4_mole_fraction"">CH4 mole fraction</a>"
+"<a href=""/variables/view/ch4_mole_fraction_bg"">CH4 Mole fraction (BG)</a>"
+"<a href=""/variables/view/ch4_mole_fraction_sr"">CH4 Mole fraction (SR)</a>"
+"<a href=""/variables/view/ch4_tropospheric_column"">CH4 Tropospheric column</a>"
+"<a href=""/variables/view/clo"">ClO</a>"
+"<a href=""/variables/view/clono2"">ClONO2</a>"
+"<a href=""/variables/view/cloud_base_height"">Cloud base height</a>"
+"<a href=""/variables/view/cloud_cover"">Cloud cover</a>"
+"<a href=""/variables/view/cloud_drop_effective_radius"">Cloud drop effective radius</a>"
+"<a href=""/variables/view/cloud_ice"">Cloud ice</a>"
+"<a href=""/variables/view/cloud_ice_effective_radius"">Cloud ice effective radius</a>"
+"<a href=""/variables/view/cloud_ice_total_column"">Cloud ice Total Column</a>"
+"<a href=""/variables/view/cloud_liquid_water_clw"">Cloud liquid water (CLW)</a>"
+"<a href=""/variables/view/cloud_liquid_water_clw_total_column"">Cloud liquid water (CLW) total column</a>"
+"<a href=""/variables/view/cloud_optical_depth"">Cloud optical depth</a>"
+"<a href=""/variables/view/cloud_to_ground_lightning_density"">Cloud to Ground lightning density</a>"
+"<a href=""/variables/view/cloud_top_height"">Cloud top height</a>"
+"<a href=""/variables/view/cloud_top_pressure"">Cloud top pressure</a>"
+"<a href=""/variables/view/cloud_top_temperature"">Cloud top temperature</a>"
+"<a href=""/variables/view/cloud_type"">Cloud type</a>"
+"<a href=""/variables/view/co_mole_fraction"">CO mole fraction</a>"
+"<a href=""/variables/view/co_mole_fraction_near_surface"">CO mole fraction (near surface)</a>"
+"<a href=""/variables/view/co_total_column"">CO Total Column</a>"
+"<a href=""/variables/view/co_tropospheric_column"">CO Tropospheric column</a>"
+"<a href=""/variables/view/co2_column_average_dry_air_mixing_ratio"">CO2 column average dry air mixing ratio</a>"
+"<a href=""/variables/view/co2_flux"">CO2 flux</a>"
+"<a href=""/variables/view/co2_mole_fraction"">CO2 mole fraction</a>"
+"<a href=""/variables/view/co2_mole_fraction_bg"">CO2 Mole fraction (BG)</a>"
+"<a href=""/variables/view/co2_mole_fraction_sr"">CO2 Mole fraction (SR)</a>"
+"<a href=""/variables/view/co2_tropospheric_column"">CO2 Tropospheric Column</a>"
+"<a href=""/variables/view/coastal_sea_level_tide"">Coastal sea level (tide)</a>"
+"<a href=""/variables/view/coastlines"">Coastlines</a>"
+"<a href=""/variables/view/colour_dissolved_organic_matter_cdom"">Colour Dissolved Organic Matter (CDOM)</a>"
+"<a href=""/variables/view/cos"">COS</a>"
+"<a href=""/variables/view/cosmic_ray_neutron_flux"">Cosmic ray neutron flux</a>"
+"<a href=""/variables/view/cosmic_ray_neutron_flux_spectrum"">Cosmic ray neutron flux spectrum</a>"
+"<a href=""/variables/view/crustal_motion_horizontal_and_vertical"">Crustal motion (horizontal and vertical)</a>"
+"<a href=""/variables/view/crustal_plates_positioning"">Crustal plates positioning</a>"
+"<a href=""/variables/view/dew_point_temperature"">Dew Point Temperature</a>"
+"<a href=""/variables/view/dissolved_inorganic_carbon_dic"">Dissolved inorganic carbon  (DIC)</a>"
+"<a href=""/variables/view/dms_mole_fraction"">DMS Mole Fraction</a>"
+"<a href=""/variables/view/dominant_wave_direction"">Dominant wave direction</a>"
+"<a href=""/variables/view/dominant_wave_period"">Dominant wave period</a>"
+"<a href=""/variables/view/downward_long_wave_irradiance_at_earth_surface"">Downward long-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/downward_short_wave_irradiance_at_earth_surface"">Downward short-wave irradiance at Earth surface</a>"
+"<a href=""/variables/view/downward_short_wave_irradiance_at_toa"">Downward short-wave irradiance at TOA</a>"
+"<a href=""/variables/view/earth_rotation"">Earth Rotation</a>"
+"<a href=""/variables/view/earth_surface_albedo"">Earth surface albedo</a>"
+"<a href=""/variables/view/earth_surface_short_wave_bidirectional_reflectance"">Earth surface short-wave bidirectional reflectance</a>"
+"<a href=""/variables/view/electric_field"">Electric Field</a>"
+"<a href=""/variables/view/electron_density"">Electron Density</a>"
+"<a href=""/variables/view/electron_differential_directional_flux"">Electron differential directional flux</a>"
+"<a href=""/variables/view/electron_flux_density"">Electron flux density</a>"
+"<a href=""/variables/view/electron_flux_energy_spectrum"">Electron flux energy spectrum</a>"
+"<a href=""/variables/view/electron_integral_directional_flux"">Electron integral directional flux</a>"
+"<a href=""/variables/view/electrostatic_charge"">Electrostatic charge</a>"
+"<a href=""/variables/view/energetic_neutral_atom_ena"">Energetic Neutral Atom (ENA)</a>"
+"<a href=""/variables/view/euv_flux"">EUV flux</a>"
+"<a href=""/variables/view/euv_flux_spectrum"">EUV flux spectrum</a>"
+"<a href=""/variables/view/euv_sky_image"">EUV sky image</a>"
+"<a href=""/variables/view/evapotranspiration"">Evapotranspiration</a>"
+"<a href=""/variables/view/fire_fractional_cover"">Fire fractional cover</a>"
+"<a href=""/variables/view/fire_radiative_power"">Fire radiative power</a>"
+"<a href=""/variables/view/fire_temperature"">Fire temperature</a>"
+"<a href=""/variables/view/foes"">foEs</a>"
+"<a href=""/variables/view/fof2"">foF2</a>"
+"<a href=""/variables/view/fraction_of_absorbed_par_fapar"">Fraction of Absorbed PAR (FAPAR)</a>"
+"<a href=""/variables/view/fraction_of_vegetated_land"">Fraction of vegetated land</a>"
+"<a href=""/variables/view/freezing_level_height_in_clouds"">Freezing level height in clouds</a>"
+"<a href=""/variables/view/gamma_ray_flux"">Gamma-ray flux</a>"
+"<a href=""/variables/view/gamma_ray_flux_spectrum"">Gamma-ray flux spectrum</a>"
+"<a href=""/variables/view/geoid"">Geoid</a>"
+"<a href=""/variables/view/geomagnetic_field"">Geomagnetic field</a>"
+"<a href=""/variables/view/glacier_cover"">Glacier cover</a>"
+"<a href=""/variables/view/glacier_motion"">Glacier motion</a>"
+"<a href=""/variables/view/glacier_topography"">Glacier topography</a>"
+"<a href=""/variables/view/glyoxal_mole_fraction"">Glyoxal Mole Fraction</a>"
+"<a href=""/variables/view/glyoxal_tropospheric_column"">Glyoxal Tropospheric column</a>"
+"<a href=""/variables/view/gravity_field"">Gravity field</a>"
+"<a href=""/variables/view/gravity_gradients"">Gravity gradients</a>"
+"<a href=""/variables/view/ground_water"">Ground water</a>"
+"<a href=""/variables/view/h_f"">h'F</a>"
+"<a href=""/variables/view/h2_mole_fraction"">H2 Mole Fraction</a>"
+"<a href=""/variables/view/h2o"">H2O</a>"
+"<a href=""/variables/view/hcfc_22"">HCFC-22</a>"
+"<a href=""/variables/view/hcho_mole_fraction"">HCHO mole fraction </a>"
+"<a href=""/variables/view/hcho_total_column"">HCHO Total Column</a>"
+"<a href=""/variables/view/hcho_tropospheric_column"">HCHO Tropospheric column</a>"
+"<a href=""/variables/view/hcl"">HCl</a>"
+"<a href=""/variables/view/hd_delta"">HD Delta</a>"
+"<a href=""/variables/view/sea_ice_type"">Sea-ice type</a>"
+"<a href=""/variables/view/sf6"">SF6</a>"
+"<a href=""/variables/view/short_wave_cloud_reflectance"">Short-wave cloud reflectance</a>"
+"<a href=""/variables/view/significant_wave_height"">Significant wave height</a>"
+"<a href=""/variables/view/snow_cover"">Snow cover</a>"
+"<a href=""/variables/view/snow_depth"">Snow depth</a>"
+"<a href=""/variables/view/snow_status_wet_dry"">Snow status (wet/dry)</a>"
+"<a href=""/variables/view/snow_water_equivalent"">Snow water equivalent</a>"
+"<a href=""/variables/view/so2_mole_fraction"">SO2 mole fraction</a>"
+"<a href=""/variables/view/so2_mole_fraction_near_surface"">SO2 mole fraction (near surface)</a>"
+"<a href=""/variables/view/so2_total_column"">SO2 Total Column</a>"
+"<a href=""/variables/view/so2_tropospheric_column"">SO2 Tropospheric Column</a>"
+"<a href=""/variables/view/soil_moisture_in_the_roots_region"">Soil moisture  (in the roots region)</a>"
+"<a href=""/variables/view/soil_moisture_at_surface"">Soil moisture at surface</a>"
+"<a href=""/variables/view/soil_temperature"">Soil temperature</a>"
+"<a href=""/variables/view/soil_type"">Soil type</a>"
+"<a href=""/variables/view/solar_ca_ii_k_image"">Solar Ca II-K image</a>"
+"<a href=""/variables/view/solar_coronagraphic_image"">Solar coronagraphic image</a>"
+"<a href=""/variables/view/solar_electric_field"">Solar electric field</a>"
+"<a href=""/variables/view/solar_euv_flux"">Solar EUV flux</a>"
+"<a href=""/variables/view/solar_euv_flux_spectrum"">Solar EUV flux spectrum</a>"
+"<a href=""/variables/view/solar_euv_image"">Solar EUV image</a>"
+"<a href=""/variables/view/solar_gamma_ray_flux"">Solar gamma-ray flux</a>"
+"<a href=""/variables/view/solar_gamma_ray_flux_spectrum"">Solar gamma-ray flux spectrum</a>"
+"<a href=""/variables/view/solar_h_alpha_image"">Solar H-alpha image</a>"
+"<a href=""/variables/view/solar_lyman_alpha_flux"">Solar Lyman-alpha flux</a>"
+"<a href=""/variables/view/solar_lyman_alpha_image"">Solar Lyman-alpha image</a>"
+"<a href=""/variables/view/solar_magnetic_field"">Solar magnetic field</a>"
+"<a href=""/variables/view/solar_radio_flux"">Solar radio flux</a>"
+"<a href=""/variables/view/solar_radio_flux_spectrum"">Solar radio flux spectrum</a>"
+"<a href=""/variables/view/solar_radio_image"">Solar radio image</a>"
+"<a href=""/variables/view/solar_spectral_irradiance"">Solar spectral irradiance</a>"
+"<a href=""/variables/view/solar_uv_flux"">Solar UV flux</a>"
+"<a href=""/variables/view/solar_uv_flux_spectrum"">Solar UV flux spectrum</a>"
+"<a href=""/variables/view/solar_uv_image"">Solar UV image</a>"
+"<a href=""/variables/view/solar_velocity_fields"">Solar velocity fields</a>"
+"<a href=""/variables/view/solar_vis_flux"">Solar VIS flux</a>"
+"<a href=""/variables/view/solar_vis_flux_spectrum"">Solar VIS flux spectrum</a>"
+"<a href=""/variables/view/solar_vis_image"">Solar VIS image</a>"
+"<a href=""/variables/view/solar_white_light_image"">Solar white light image</a>"
+"<a href=""/variables/view/solar_wind_density"">Solar wind density</a>"
+"<a href=""/variables/view/solar_wind_temperature"">Solar wind temperature</a>"
+"<a href=""/variables/view/solar_wind_velocity"">Solar wind velocity</a>"
+"<a href=""/variables/view/solar_x_ray_flux"">Solar X-ray flux</a>"
+"<a href=""/variables/view/solar_x_ray_flux_spectrum"">Solar X-ray flux spectrum</a>"
+"<a href=""/variables/view/solar_x_ray_image"">Solar X-ray image</a>"
+"<a href=""/variables/view/specific_humidity"">Specific humidity</a>"
+"<a href=""/variables/view/spread_f"">Spread F</a>"
+"<a href=""/variables/view/temperature_of_the_tropopause"">Temperature of the tropopause</a>"
+"<a href=""/variables/view/total_alkalinity_at"">Total alkalinity (AT)</a>"
+name
+Total lightning density
+Turbulence
+Upward long-wave irradiance at Earth surface
+Upward long-wave irradiance at TOA
+Upward short-wave irradiance at TOA
+Upward spectral radiance at TOA
+UV flux
+UV flux spectrum
+UV sky image
+Vegetation type
+VIS flux
+VIS flux spectrum
+VIS sky image
+Water-leaving spectral radiance
+Wave 1D energy frequency spectrum
+Wave directional energy frequency spectrum
+Wetland extent
+Wind (horizontal)
+Wind (vertical)
+Wind direction (near surface)
+Wind gust
+Wind speed (near surface)
+Wind stress
+Wind vector (near surface)
+X-ray flux
+X-ray flux spectrum
+X-ray sky image
+Sea-ice type
+SF6
+Short-wave cloud reflectance
+Significant wave height
+Snow cover
+Snow depth
+Snow status (wet/dry)
+Snow water equivalent
+SO2 mole fraction
+SO2 mole fraction (near surface)
+SO2 Total Column
+SO2 Tropospheric Column
+Soil moisture  (in the roots region)
+Soil moisture at surface
+Soil temperature
+Soil type
+Solar Ca II-K image
+Solar coronagraphic image
+Solar electric field
+Solar EUV flux
+Solar EUV flux spectrum
+Solar EUV image
+Solar gamma-ray flux
+Solar gamma-ray flux spectrum
+Solar H-alpha image
+Solar Lyman-alpha flux
+Solar Lyman-alpha image
+Solar magnetic field
+Solar radio flux
+Solar radio flux spectrum
+Solar radio image
+Solar spectral irradiance
+Solar UV flux
+Solar UV flux spectrum
+Solar UV image
+Solar velocity fields
+Solar VIS flux
+Solar VIS flux spectrum
+Solar VIS image
+Solar white light image
+Solar wind density
+Solar wind temperature
+Solar wind velocity
+Solar X-ray flux
+Solar X-ray flux spectrum
+Solar X-ray image
+Specific humidity
+Spread F
+Temperature of the tropopause
+Total alkalinity (AT)
+C5H8
+C6H6
+C7H8 Mole Fraction
+CFC-11
+CFC-12
+CH3Br
+CH3CN Mole Fraction
+CH3D Delta
+CH3OH Mole Fraction
+CH4 column average dry air mixing ratio 
+CH4 mole fraction
+CH4 Mole fraction (BG)
+CH4 Mole fraction (SR)
+CH4 Tropospheric column
+ClO
+ClONO2
+Cloud base height
+Cloud cover
+Cloud drop effective radius
+Cloud ice
+Cloud ice effective radius
+Cloud ice Total Column
+Cloud liquid water (CLW)
+Cloud liquid water (CLW) total column
+Cloud optical depth
+Cloud to Ground lightning density
+Cloud top height
+Cloud top pressure
+Cloud top temperature
+Cloud type
+CO mole fraction
+CO mole fraction (near surface)
+CO Total Column
+CO Tropospheric column
+CO2 column average dry air mixing ratio
+CO2 flux
+CO2 mole fraction
+CO2 Mole fraction (BG)
+CO2 Mole fraction (SR)
+CO2 Tropospheric Column
+Coastal sea level (tide)
+Coastlines
+Colour Dissolved Organic Matter (CDOM)
+COS
+Cosmic ray neutron flux
+Cosmic ray neutron flux spectrum
+Crustal motion (horizontal and vertical)
+Crustal plates positioning
+Dew Point Temperature
+Dissolved inorganic carbon  (DIC)
+(13)CH4 delta
+(13)CO Delta
+(13)CO2 Delta
+(14)CH4 Delta
+(14)CO Number Concentration
+(14)CO2 Delta
+Accumulated precipitation (over 24 h)
+Aerosol Absorption Optical Depth
+Aerosol column burden
+Aerosol dust concentration
+Aerosol effective radius
+Aerosol Extinction Coefficient
+Aerosol Layer Height
+Aerosol mass mixing ratio
+Aerosol Optical Depth
+Aerosol single-scattering albedo
+Aerosol species mole fraction
+Aerosol species total column burden
+Aerosol type
+Aerosol volcanic ash
+Aerosol volcanic ash  Total Column
+Air pressure (near surface)
+Air specific humidity (near surface)
+Air temperature (near surface)
+Alpha particles differential directional flux
+Alpha particles integral directional flux
+Atmospheric density
+Atmospheric temperature
+Aurora
+Background Luminance (surface)
+Bathymetry
+Biomass
+BrO
+C(17)OO Delta
+C(18)O Delta
+C(18)OO Delta
+C10H16 (3-Carene) Mole Fraction
+C10H16 (alfapinene) Mole Fraction
+C10H16 (betapinene) Mole Fraction
+C10H16 (Limonene) Mole Fraction
+C2H2
+C2H5OH Mole Fraction
+C2H6
+C2H6S Mole Fraction
+C3H6O Mole Fraction
+C3H8
+C4H10
+C4H10 (n-butane)
+C5H12 (2-Methylbutane)
+C5H12 (n-Pentane)
+HDO
+Heavy ion angular flux energy and mass spectrum
+Heavy ion differential directional flux
+Heavy ion flux energy and mass spectrum
+Heavy ion integral directional flux
+Height of the top of PBL
+Height of the tropopause
+Heliospheric image
+hmF2
+HNO3
+Hydrometeor type
+Ice sheet topography
+Icing potential
+Integrated Water Vapour (IWV)
+Interplanetary magnetic field
+Ionospheric plasma density
+Ionospheric plasma velocity
+Ionospheric Radio Absorption
+Ionospheric Scintillation
+Ionospheric Vertical Total Electron Content (VTEC)
+Lake area
+Lake level
+Lake Surface Temperature
+Land cover
+Land surface temperature
+Land surface topography
+Leaf Area Index (LAI)
+Long-wave Earth surface emissivity
+Melting layer depth in clouds
+Meteorological Optical Range (MOR) (surface)
+N(15)NO Delta
+N(15)NO-Alpha Delta
+N(15)NO-Beta Delta
+N2(18)O Delta
+N2O mole fraction
+N2O mole fraction (BG)
+N2O mole fraction (SR)
+N2O5
+NH3 Mole Fraction
+NH3 Total Column
+NIR/SWIR flux
+NIR/SWIR flux spectrum
+NIR/SWIR sky image
+NO
+NO2  Total Column
+NO2 Mole  fraction (SR)
+NO2 mole fraction
+NO2 Mole fraction (BG)
+NO2 mole fraction (near surface)
+NO2 Stratospheric Column
+NO2 Tropospheric column
+NO3 Mole Fraction
+Normalised Difference Vegetation Index (NDVI)
+O3
+O3 mole fraction
+O3 Stratospheric Column
+O3 Total Column
+O3 Tropospheric Column
+Ocean chlorophyll concentration 
+Ocean Diffuse Attenuation Coefficient (DAC)
+Ocean dynamic topography
+Ocean salinity
+Ocean subsurface dissolved oxygen concentration
+Ocean subsurface tracers
+Ocean surface currents (vector)
+Ocean suspended sediments concentration
+Ocean temperature
+Ocean velocity
+OCS Mole fraction
+OH
+Oil spill cover
+PAN
+pCO2
+Permafrost
+pH
+Photosynthetically Active Radiation (PAR)
+Precipitation  (liquid or solid)
+Precipitation intensity at surface (liquid or solid)
+Precipitation intensity at surface (solid)
+Precipitation type at the surface
+Proton differential directional flux
+Proton integral directional flux
+PSC occurrence
+Radiation Dose Rate
+Radiation profile
+Radio-waves
+Relative humidity
+Relative Humidity (near surface)
+River discharge
+Sea surface heat flux
+Sea surface height anomaly
+Sea Surface Mass Flux
+Sea surface salinity
+Sea surface temperature
+Sea-ice cover
+Sea-ice elevation
+Sea-ice motion
+Sea-ice surface characteristics
+Sea-ice surface temperature
+Sea-ice thickness
+DMS Mole Fraction
+Dominant wave direction
+Dominant wave period
+Downward long-wave irradiance at Earth surface
+Downward short-wave irradiance at Earth surface
+Downward short-wave irradiance at TOA
+Earth Rotation
+Earth surface albedo
+Earth surface short-wave bidirectional reflectance
+Electric Field
+Electron Density
+Electron differential directional flux
+Electron flux density
+Electron flux energy spectrum
+Electron integral directional flux
+Electrostatic charge
+Energetic Neutral Atom (ENA)
+EUV flux
+EUV flux spectrum
+EUV sky image
+Evapotranspiration
+Fire fractional cover
+Fire radiative power
+Fire temperature
+foEs
+foF2
+Fraction of Absorbed PAR (FAPAR)
+Fraction of vegetated land
+Freezing level height in clouds
+Gamma-ray flux
+Gamma-ray flux spectrum
+Geoid
+Geomagnetic field
+Glacier cover
+Glacier motion
+Glacier topography
+Glyoxal Mole Fraction
+Glyoxal Tropospheric column
+Gravity field
+Gravity gradients
+Ground water
+h'F
+H2 Mole Fraction
+H2O
+HCFC-22
+HCHO mole fraction 
+HCHO Total Column
+HCHO Tropospheric column
+HCl
+HD Delta
+name,required for application
+Total lightning density,"Climate Monitoring (GCOS),High Res NWP,Nowcasting / VSRF"
+Turbulence,Aeronautical Meteorology
+Upward long-wave irradiance at Earth surface,"Climate-AOPC (deprecated),Global NWP"
+Upward long-wave irradiance at TOA,"Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Hydrology,SPARC (deprecated)"
+Upward short-wave irradiance at TOA,"Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Hydrology,SPARC (deprecated)"
+Upward spectral radiance at TOA,Global NWP
+UV flux,
+UV flux spectrum,
+UV sky image,
+Vegetation type,"Agricultural Meteorology,Global NWP,Hydrology,SIAF (deprecated),SSLP"
+VIS flux,
+VIS flux spectrum,
+VIS sky image,
+Water-leaving spectral radiance,Climate Monitoring (GCOS)
+Wave 1D energy frequency spectrum,Ocean Applications
+Wave directional energy frequency spectrum,Ocean Applications
+Wetland extent,Climate-TOPC (deprecated)
+Wind (horizontal),"Aeronautical Meteorology,Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications,SPARC (deprecated),Space Weather"
+Wind (vertical),"Aeronautical Meteorology,Global NWP,High Res NWP,Nowcasting / VSRF"
+Wind direction (near surface),
+Wind gust,"Aeronautical Meteorology,Agricultural Meteorology,Nowcasting / VSRF"
+Wind speed (near surface),"Aeronautical Meteorology,Agricultural Meteorology,Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+Wind stress,"Climate Monitoring (GCOS),Ocean Applications"
+Wind vector (near surface),"Aeronautical Meteorology,Agricultural Meteorology,CLIC (deprecated),CLIVAR (deprecated),Climate Modelling Research (deprecated),Climate-AOPC (deprecated),Climate-OOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications"
+X-ray flux,
+X-ray flux spectrum,
+X-ray sky image,
+Sea-ice type,Global NWP
+SF6,
+Short-wave cloud reflectance,Global NWP
+Significant wave height,"Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Ocean Applications"
+Snow cover,"Agricultural Meteorology,CLIC (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Climate-TOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP,Hydrology,Nowcasting / VSRF"
+Snow depth,"Climate Monitoring (GCOS),Nowcasting / VSRF,Ocean Applications"
+Snow status (wet/dry),Hydrology
+Snow water equivalent,"Agricultural Meteorology,CLIC (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP,Hydrology,SIAF (deprecated),SSLP"
+SO2 mole fraction,"Aeronautical Meteorology,Atmospheric Chemistry (deprecated),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+SO2 mole fraction (near surface),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+SO2 Total Column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+SO2 Tropospheric Column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+Soil moisture  (in the roots region),Climate Monitoring (GCOS)
+Soil moisture at surface,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-TOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP,Hydrology,Nowcasting / VSRF,SIAF (deprecated),SSLP"
+Soil temperature,Agricultural Meteorology
+Soil type,Agricultural Meteorology
+Solar Ca II-K image,Space Weather
+Solar coronagraphic image,Space Weather
+Solar electric field,
+Solar EUV flux,Space Weather
+Solar EUV flux spectrum,
+Solar EUV image,Space Weather
+Solar gamma-ray flux,
+Solar gamma-ray flux spectrum,
+Solar H-alpha image,Space Weather
+Solar Lyman-alpha flux,
+Solar Lyman-alpha image,
+Solar magnetic field,Space Weather
+Solar radio flux,Space Weather
+Solar radio flux spectrum,
+Solar radio image,
+Solar spectral irradiance,Climate Monitoring (GCOS)
+Solar UV flux,
+Solar UV flux spectrum,
+Solar UV image,
+Solar velocity fields,
+Solar VIS flux,
+Solar VIS flux spectrum,
+Solar VIS image,
+Solar white light image,Space Weather
+Solar wind density,Space Weather
+Solar wind temperature,Space Weather
+Solar wind velocity,Space Weather
+Solar X-ray flux,Space Weather
+Solar X-ray flux spectrum,
+Solar X-ray image,Space Weather
+Specific humidity,"Aeronautical Meteorology,Atmospheric Chemistry (deprecated),Climate Modelling Research (deprecated),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,SPARC (deprecated)"
+Spread F,Space Weather
+Temperature of the tropopause,Nowcasting / VSRF
+Total alkalinity (AT),SOLAS
+DMS Mole Fraction,
+Dominant wave direction,"Global NWP,High Res NWP,Nowcasting / VSRF"
+Dominant wave period,"Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications"
+Downward long-wave irradiance at Earth surface,"Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,Nowcasting / VSRF"
+Downward short-wave irradiance at Earth surface,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,Nowcasting / VSRF"
+Downward short-wave irradiance at TOA,"Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated)"
+Earth Rotation,
+Earth surface albedo,"Climate Monitoring (GCOS),Climate-TOPC (deprecated),High Res NWP,Nowcasting / VSRF"
+Earth surface short-wave bidirectional reflectance,"Climate-AOPC (deprecated),Global NWP"
+Electric Field,
+Electron Density,
+Electron differential directional flux,Space Weather
+Electron flux density,
+Electron flux energy spectrum,
+Electron integral directional flux,
+Electrostatic charge,
+Energetic Neutral Atom (ENA),
+EUV flux,
+EUV flux spectrum,
+EUV sky image,
+Evapotranspiration,Agricultural Meteorology
+Fire fractional cover,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-TOPC (deprecated),Nowcasting / VSRF"
+Fire radiative power,Climate Monitoring (GCOS)
+Fire temperature,"Agricultural Meteorology,Nowcasting / VSRF"
+foEs,Space Weather
+foF2,Space Weather
+Fraction of Absorbed PAR (FAPAR),"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-TOPC (deprecated),Global NWP,High Res NWP,SIAF (deprecated),SSLP"
+Fraction of vegetated land,
+Freezing level height in clouds,Aeronautical Meteorology
+Gamma-ray flux,
+Gamma-ray flux spectrum,
+Geoid,"SIAF (deprecated),SSLP"
+Geomagnetic field,Space Weather
+Glacier cover,"Climate Monitoring (GCOS),Climate-TOPC (deprecated)"
+Glacier motion,
+Glacier topography,Climate-TOPC (deprecated)
+Glyoxal Mole Fraction,
+Glyoxal Tropospheric column,
+Gravity field,
+Gravity gradients,
+Ground water,Climate-TOPC (deprecated)
+h'F,Space Weather
+H2 Mole Fraction,
+H2O,
+HCFC-22,
+HCHO mole fraction ,"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+HCHO Total Column,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS)"
+HCHO Tropospheric column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+HCl,Atmospheric Chemistry (deprecated)
+HD Delta,Monitoring Atmospheric Composition
+NO2 Tropospheric column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+NO3 Mole Fraction,
+Normalised Difference Vegetation Index (NDVI),"Agricultural Meteorology,Global NWP,High Res NWP,Hydrology,Nowcasting / VSRF"
+O3,"Agricultural Meteorology,Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,SPARC (deprecated)"
+O3 mole fraction,"Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+O3 Stratospheric Column,
+O3 Total Column,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Forecasting Atmospheric Composition,Global NWP,High Res NWP,Monitoring Atmospheric Composition"
+O3 Tropospheric Column,
+Ocean chlorophyll concentration ,"CLIVAR (deprecated),Climate Monitoring (GCOS),Climate-OOPC (deprecated),Ocean Applications,SIAF (deprecated),SSLP"
+Ocean Diffuse Attenuation Coefficient (DAC),
+Ocean dynamic topography,"CLIVAR (deprecated),Climate Monitoring (GCOS),Climate-OOPC (deprecated),Hydrology,Ocean Applications,SIAF (deprecated),SSLP"
+Ocean salinity,"Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,Ocean Applications"
+Ocean subsurface dissolved oxygen concentration,Climate Monitoring (GCOS)
+Ocean subsurface tracers,Climate Monitoring (GCOS)
+Ocean surface currents (vector),"Climate Monitoring (GCOS),Nowcasting / VSRF,Ocean Applications"
+Ocean suspended sediments concentration,"CLIVAR (deprecated),SIAF (deprecated),SSLP"
+Ocean temperature,"Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,Ocean Applications"
+Ocean velocity,"Climate Monitoring (GCOS),Ocean Applications"
+OCS Mole fraction,
+OH,Atmospheric Chemistry (deprecated)
+Oil spill cover,
+PAN,
+pCO2,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-OOPC (deprecated),SOLAS"
+Permafrost,"Climate-TOPC (deprecated),Hydrology"
+pH,SOLAS
+Photosynthetically Active Radiation (PAR),
+Precipitation  (liquid or solid),Aeronautical Meteorology
+Precipitation intensity at surface (liquid or solid),"Aeronautical Meteorology,Agricultural Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications"
+Precipitation intensity at surface (solid),"Aeronautical Meteorology,Agricultural Meteorology,Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+Precipitation type at the surface,"Aeronautical Meteorology,High Res NWP"
+Proton differential directional flux,Space Weather
+Proton integral directional flux,
+PSC occurrence,
+Radiation Dose Rate,"Aeronautical Meteorology,Space Weather"
+Radiation profile,
+Radio-waves,
+Relative humidity,Climate Monitoring (GCOS)
+Relative Humidity (near surface),Climate Monitoring (GCOS)
+River discharge,"Climate Monitoring (GCOS),Climate-TOPC (deprecated),Ocean Applications"
+Sea surface heat flux,"Climate Monitoring (GCOS),Ocean Applications"
+Sea surface height anomaly,Ocean Applications
+Sea Surface Mass Flux,Ocean Applications
+Sea surface salinity,"CLIVAR (deprecated),Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,Ocean Applications,SIAF (deprecated),SSLP"
+Sea surface temperature,"Aeronautical Meteorology,CLIC (deprecated),CLIVAR (deprecated),Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Climate-OOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications,SIAF (deprecated),SSLP"
+Sea-ice cover,"CLIC (deprecated),CLIVAR (deprecated),Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,High Res NWP,Hydrology,Nowcasting / VSRF,Ocean Applications"
+Sea-ice elevation,"CLIC (deprecated),Hydrology"
+Sea-ice motion,"Climate Monitoring (GCOS),Ocean Applications"
+Sea-ice surface characteristics,Ocean Applications
+Sea-ice surface temperature,"CLIC (deprecated),Global NWP,High Res NWP"
+Sea-ice thickness,"CLIC (deprecated),Climate Monitoring (GCOS),Climate-OOPC (deprecated),Global NWP,High Res NWP,Ocean Applications"
+HDO,
+Heavy ion angular flux energy and mass spectrum,Space Weather
+Heavy ion differential directional flux,
+Heavy ion flux energy and mass spectrum,
+Heavy ion integral directional flux,
+Height of the top of PBL,"Aeronautical Meteorology,Nowcasting / VSRF"
+Height of the tropopause,Nowcasting / VSRF
+Heliospheric image,Space Weather
+hmF2,Space Weather
+HNO3,Atmospheric Chemistry (deprecated)
+Hydrometeor type,
+Ice sheet topography,"CLIC (deprecated),Climate-TOPC (deprecated)"
+Icing potential,Aeronautical Meteorology
+Integrated Water Vapour (IWV),"Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+Interplanetary magnetic field,Space Weather
+Ionospheric plasma density,
+Ionospheric plasma velocity,Space Weather
+Ionospheric Radio Absorption,Space Weather
+Ionospheric Scintillation,Space Weather
+Ionospheric Vertical Total Electron Content (VTEC),Space Weather
+Lake area,"Climate Monitoring (GCOS),Climate-TOPC (deprecated),Hydrology"
+Lake level,"Climate Monitoring (GCOS),Climate-TOPC (deprecated)"
+Lake Surface Temperature,"Climate Monitoring (GCOS),Climate-TOPC (deprecated)"
+Land cover,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-TOPC (deprecated),Hydrology"
+Land surface temperature,"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP,Hydrology,Nowcasting / VSRF"
+Land surface topography,"Climate-TOPC (deprecated),Hydrology"
+Leaf Area Index (LAI),"Agricultural Meteorology,Climate Monitoring (GCOS),Climate-TOPC (deprecated),Global NWP,High Res NWP,Hydrology"
+Long-wave Earth surface emissivity,"Global NWP,High Res NWP,Hydrology"
+Melting layer depth in clouds,
+Meteorological Optical Range (MOR) (surface),Aeronautical Meteorology
+N(15)NO Delta,Monitoring Atmospheric Composition
+N(15)NO-Alpha Delta,Monitoring Atmospheric Composition
+N(15)NO-Beta Delta,Monitoring Atmospheric Composition
+N2(18)O Delta,Monitoring Atmospheric Composition
+N2O mole fraction,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+N2O mole fraction (BG),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+N2O mole fraction (SR),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+N2O5,
+NH3 Mole Fraction,
+NH3 Total Column,
+NIR/SWIR flux,
+NIR/SWIR flux spectrum,
+NIR/SWIR sky image,
+NO,Atmospheric Chemistry (deprecated)
+NO2  Total Column,Atmospheric Chemistry (deprecated)
+NO2 Mole  fraction (SR),
+NO2 mole fraction,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+NO2 Mole fraction (BG),
+NO2 mole fraction (near surface),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+NO2 Stratospheric Column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+(13)CH4 delta,"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+(13)CO Delta,Monitoring Atmospheric Composition
+(13)CO2 Delta,Monitoring Atmospheric Composition
+(14)CH4 Delta,Monitoring Atmospheric Composition
+(14)CO Number Concentration,
+(14)CO2 Delta,Monitoring Atmospheric Composition
+Accumulated precipitation (over 24 h),"Agricultural Meteorology,Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP"
+Aerosol Absorption Optical Depth,Climate-AOPC (deprecated)
+Aerosol column burden,"Forecasting Atmospheric Composition,Global NWP,Nowcasting / VSRF,SIAF (deprecated),SSLP"
+Aerosol dust concentration,Aeronautical Meteorology
+Aerosol effective radius,
+Aerosol Extinction Coefficient,"Aeronautical Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),Forecasting Atmospheric Composition"
+Aerosol Layer Height,Climate Monitoring (GCOS)
+Aerosol mass mixing ratio,"Atmospheric Chemistry (deprecated),Climate Modelling Research (deprecated),Global NWP,SPARC (deprecated)"
+Aerosol Optical Depth,"Climate Monitoring (GCOS),Climate-AOPC (deprecated)"
+Aerosol single-scattering albedo,Climate Monitoring (GCOS)
+Aerosol species mole fraction,
+Aerosol species total column burden,
+Aerosol type,
+Aerosol volcanic ash,Aeronautical Meteorology
+Aerosol volcanic ash  Total Column,Aeronautical Meteorology
+Air pressure (near surface),"Aeronautical Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Ocean Applications"
+Air specific humidity (near surface),"Aeronautical Meteorology,Agricultural Meteorology,CLIC (deprecated),Climate-AOPC (deprecated),Global NWP,High Res NWP,Ocean Applications"
+Air temperature (near surface),"Aeronautical Meteorology,Agricultural Meteorology,CLIC (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications"
+Alpha particles differential directional flux,
+Alpha particles integral directional flux,
+Atmospheric density,Space Weather
+Atmospheric temperature,"Aeronautical Meteorology,Agricultural Meteorology,Climate Modelling Research (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,SPARC (deprecated),Space Weather"
+Aurora,
+Background Luminance (surface),Aeronautical Meteorology
+Bathymetry,Ocean Applications
+Biomass,"Climate Monitoring (GCOS),Climate-TOPC (deprecated)"
+BrO,Atmospheric Chemistry (deprecated)
+C(17)OO Delta,
+C(18)O Delta,Monitoring Atmospheric Composition
+C(18)OO Delta,Monitoring Atmospheric Composition
+C10H16 (3-Carene) Mole Fraction,
+C10H16 (alfapinene) Mole Fraction,
+C10H16 (betapinene) Mole Fraction,
+C10H16 (Limonene) Mole Fraction,
+C2H2,"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+C2H5OH Mole Fraction,
+C2H6,
+C2H6S Mole Fraction,
+C3H6O Mole Fraction,
+C3H8,
+C4H10,
+C4H10 (n-butane),
+C5H12 (2-Methylbutane),
+C5H12 (n-Pentane),
+C5H8,
+C6H6,
+C7H8 Mole Fraction,
+CFC-11,Atmospheric Chemistry (deprecated)
+CFC-12,Atmospheric Chemistry (deprecated)
+CH3Br,
+CH3CN Mole Fraction,
+CH3D Delta,Monitoring Atmospheric Composition
+CH3OH Mole Fraction,Forecasting Atmospheric Composition
+CH4 column average dry air mixing ratio ,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+CH4 mole fraction,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Providing Atmospheric Composition information  to support services in urban and populated areas"
+CH4 Mole fraction (BG),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+CH4 Mole fraction (SR),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+CH4 Tropospheric column,Climate Monitoring (GCOS)
+ClO,Atmospheric Chemistry (deprecated)
+ClONO2,Atmospheric Chemistry (deprecated)
+Cloud base height,"Aeronautical Meteorology,GEWEX (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+Cloud cover,"Aeronautical Meteorology,Climate Monitoring (GCOS),Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF,Ocean Applications"
+Cloud drop effective radius,"Aeronautical Meteorology,Climate Monitoring (GCOS),Global NWP,High Res NWP"
+Cloud ice,"Aeronautical Meteorology,GEWEX (deprecated),Global NWP,High Res NWP"
+Cloud ice effective radius,Aeronautical Meteorology
+Cloud ice Total Column,"Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP"
+Cloud liquid water (CLW),"Aeronautical Meteorology,Climate Monitoring (GCOS),GEWEX (deprecated),Global NWP,High Res NWP"
+Cloud liquid water (CLW) total column,"Climate-AOPC (deprecated),GEWEX (deprecated),Global NWP,High Res NWP"
+Cloud optical depth,"CLIC (deprecated),Climate Monitoring (GCOS)"
+Cloud to Ground lightning density,"High Res NWP,Nowcasting / VSRF"
+Cloud top height,"CLIC (deprecated),Climate-AOPC (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+Cloud top pressure,Climate Monitoring (GCOS)
+Cloud top temperature,"Climate Monitoring (GCOS),Climate-AOPC (deprecated),GEWEX (deprecated),Nowcasting / VSRF"
+Cloud type,"Aeronautical Meteorology,Atmospheric Chemistry (deprecated),Global NWP,High Res NWP,Nowcasting / VSRF"
+CO mole fraction,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+CO mole fraction (near surface),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+CO Total Column,
+CO Tropospheric column,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+CO2 column average dry air mixing ratio,"Climate Monitoring (GCOS),Forecasting Atmospheric Composition,Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+CO2 flux,
+CO2 mole fraction,"Atmospheric Chemistry (deprecated),Climate Monitoring (GCOS),Climate-AOPC (deprecated),Monitoring Atmospheric Composition,Providing Atmospheric Composition information  to support services in urban and populated areas"
+CO2 Mole fraction (BG),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+CO2 Mole fraction (SR),"Forecasting Atmospheric Composition,Monitoring Atmospheric Composition"
+CO2 Tropospheric Column,Climate Monitoring (GCOS)
+Coastal sea level (tide),"Climate Monitoring (GCOS),Climate-OOPC (deprecated)"
+Coastlines,
+Colour Dissolved Organic Matter (CDOM),"CLIVAR (deprecated),SIAF (deprecated),SSLP"
+COS,Atmospheric Chemistry (deprecated)
+Cosmic ray neutron flux,Space Weather
+Cosmic ray neutron flux spectrum,
+Crustal motion (horizontal and vertical),
+Crustal plates positioning,
+Dew Point Temperature,Climate Monitoring (GCOS)
+Dissolved inorganic carbon  (DIC),"Climate Monitoring (GCOS),Climate-OOPC (deprecated),SOLAS"
